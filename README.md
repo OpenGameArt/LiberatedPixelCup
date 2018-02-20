@@ -1,5 +1,7 @@
 ## Liberated Pixel Cup Art Assets
 
+![Cup Logo](liberated_pixel_cup.png)
+
 ### Description:
 
 
