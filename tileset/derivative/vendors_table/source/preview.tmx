@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.2" orientation="orthogonal" renderorder="right-down" width="6" height="4" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="vendors_table" tilewidth="32" tileheight="32" tilecount="21" columns="7">
+  <image source="../PNG/32x32/vendors_table.png" width="224" height="96"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="6" height="4">
+  <data encoding="csv">
+4,6,7,0,0,0,
+5,13,14,1,2,3,
+11,12,21,8,9,10,
+18,19,0,15,16,17
+</data>
+ </layer>
+</map>
