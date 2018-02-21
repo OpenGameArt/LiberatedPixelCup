@@ -18,6 +18,7 @@ Assets are dual licensed under [Creative Commons Attribution-ShareAlike (CC BY-S
 
 - sprites:
   - [original](sprite/original/authors.md)
+  - [derivative](sprite/derivative/authors.md)
 - tileset:
   - [original](tileset/original/authors.md)
   - [derivative](tileset/derivative/authors.md)
