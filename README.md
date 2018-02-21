@@ -13,3 +13,11 @@ Assets are dual licensed under [Creative Commons Attribution-ShareAlike (CC BY-S
 
 - [Liberated Pixel Cup](http://lpc.opengameart.org/)
 - [Style Guide](http://lpc.opengameart.org/static/lpc-style-guide)
+
+### Attributions:
+
+- sprites:
+  - [original](sprite/original/authors.md)
+- tileset:
+  - [original](tileset/original/authors.md)
+  - [derivative](tileset/derivative/authors.md)
