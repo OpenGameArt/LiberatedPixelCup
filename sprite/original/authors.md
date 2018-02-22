@@ -6,6 +6,7 @@
     - Goblin
       - [[LPC] Goblin](https://opengameart.org/node/25466)
       - [[LPC] Goblin - Full Sheet](https://opengameart.org/node/49430)
+    - [Golem](https://opengameart.org/node/24436)
     - [Imp](https://opengameart.org/node/20926)
     - [Spider](https://opengameart.org/node/21036)
     - [Wolf](https://opengameart.org/node/20830)
